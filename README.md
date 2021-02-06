@@ -1,1 +1,1 @@
-# People-Picker-spfx-
+# People-Picker-spfx
